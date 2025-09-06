@@ -11,7 +11,7 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ---
 
-## 🧑‍💻 Technical Skills  
+## 🛠️ Technical Skills  
 
 ### 🔹 Programming & Tools  
 - **Languages:** Python, C, C++  
@@ -33,7 +33,7 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ## 📂 Self-Driven Machine Learning Projects 
 
-### 🥗 [Balanced Diet Recommendation System](https://github.com/ai-abanoubmichel/Project_6_balanc_diet)  
+### 🍽️ [Balanced Diet Recommendation System](https://github.com/ai-abanoubmichel/Project_6_balanc_diet)  
 - Built a recommendation model for **generating balanced diet plans** based on nutritional values.  
 - Applied data preprocessing and feature engineering on food/nutrition datasets.  
 - Implemented classification/regression models to suggest calorie-appropriate meal plans.  
@@ -67,8 +67,9 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ## 💼 Professional Experience  
 
-### 🧪 Machine Learning Intern – Genius Technology Center (GTC)  
+### 🎓 Machine Learning Intern – Genius Technology Center (GTC)  
 *(Aug 2025 – Present)*  
+📂 [Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025) 
 
 **Overview:**  
 During this internship, I worked on multiple real-world machine learning projects, applying the **end-to-end ML workflow**:  
