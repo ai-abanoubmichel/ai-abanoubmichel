@@ -1,16 +1,138 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile  
 
-<!--
-**ai-abanoubmichel/ai-abanoubmichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me  
+I’m **Abanoub Michel**, an **AI/ML Engineer in progress** with a strong foundation in **Civil Engineering** and an active academic pursuit in **Computer Science (AI, ML & Data Science)**.  
+My career focus is on **leveraging Artificial Intelligence and Machine Learning to solve real-world problems** while continuously building expertise across Data Science, Deep Learning, and MLOps.  
 
-Here are some ideas to get you started:
+- 🌍 Location: Fayoum, Egypt  
+- 🎓 Civil Engineering Graduate (2024) | Pursuing **B.Sc. Computer Science** (2025–Present)  
+- 🤖 AI/ML Engineer | 📊 Data Scientist | 💡 Problem-Solver  
+- 📌 Interests: Machine Learning | Deep Learning | AI Systems | Data-Driven Business Applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Technical Skills  
+
+### 🔹 Programming & Tools  
+- **Languages:** Python, C, C++  
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+
+### 🔹 Machine Learning  
+- **Core Areas:**  
+  - Classification, Regression, Clustering  
+  - Ensemble Learning (Random Forest, XGBoost, etc.)  
+  - Feature Engineering & Data Preprocessing  
+  - Model Evaluation & Hyperparameter Tuning  
+  - ML Pipelines for end-to-end workflows  
+
+### 🔹 Complementary Skills  
+- Problem Solving | Analytical Thinking | Research | Team Collaboration | Time Management  
+
+---
+
+## 📂 Self-Driven Machine Learning Projects 
+
+### 🥗 [Balanced Diet Recommendation System](https://github.com/ai-abanoubmichel/Project_6_balanc_diet)  
+- Built a recommendation model for **generating balanced diet plans** based on nutritional values.  
+- Applied data preprocessing and feature engineering on food/nutrition datasets.  
+- Implemented classification/regression models to suggest calorie-appropriate meal plans.  
+- Visualized nutrient distributions and recommendations for better interpretability.  
+
+---
+
+### 🧠 [Mental Health Prediction](https://github.com/ai-abanoubmichel/Project_7_MentaI_HeaIth)  
+- Designed ML models to assess **mental health conditions** using survey and behavioral data.  
+- Performed EDA to identify correlations between demographic factors and mental well-being.  
+- Applied supervised learning algorithms (Logistic Regression, Random Forest, SVM).  
+- Evaluated models with precision, recall, and F1-score to ensure balanced predictions.  
+
+---
+
+### 🌍 [Air Quality Prediction](https://github.com/ai-abanoubmichel/Project_8_Air_Quality)  
+- Developed predictive models for **air quality index (AQI)** forecasting.  
+- Preprocessed environmental datasets including pollutants, temperature, and humidity.  
+- Applied regression and time-series models to forecast AQI levels.  
+- Created data visualizations to monitor pollutant impact and seasonal variations.  
+
+---
+
+### 🎀 [Breast Cancer Prediction](https://github.com/ai-abanoubmichel/Project_9_Breast_cancer)  
+- Built classification models to predict **breast cancer (benign vs malignant)** from medical data.  
+- Conducted feature selection and scaling for optimal model training.  
+- Compared ML algorithms (Logistic Regression, Decision Trees, Random Forest, SVM).  
+- Achieved high accuracy and recall, prioritizing sensitivity for early cancer detection.  
+
+---
+
+## 💼 Professional Experience  
+
+### 🧪 Machine Learning Intern – Genius Technology Center (GTC)  
+*(Aug 2025 – Present)*  
+
+**Overview:**  
+During this internship, I worked on multiple real-world machine learning projects, applying the **end-to-end ML workflow**:  
+data collection, cleaning, preprocessing, feature engineering, visualization, model building, evaluation, and reporting.  
+I collaborated closely with mentors and peers to enhance predictive models and document reproducible workflows.  
+
+**Key Projects:**  
+- 🏨 [Hotel Booking Cancellations Prediction](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025/tree/main/Hotel_Bookings)  
+  - Built a classification pipeline to predict booking cancellations.  
+  - Conducted **EDA** to uncover seasonal booking trends and customer behavior.  
+  - Compared multiple ML models (Logistic Regression, Random Forest, XGBoost) with performance metrics (Accuracy, Precision, Recall, F1-score).  
+
+- 🚢 [Titanic Survival Prediction](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025/tree/main/Titanic)  
+  - Applied preprocessing techniques: missing value imputation, outlier detection, and categorical encoding.  
+  - Engineered new features (family size, age bins, ticket grouping) to improve model performance.  
+  - Evaluated models systematically, documenting insights for future iterations.  
+
+
+## 🎓 Education  
+
+- **B.Sc. Civil Engineering (Construction Dept.)**  
+  *City of Culture and Science – Faculty of Engineering* (Graduated 2024)  
+
+- **B.Sc. Computer Science (AI/ML Focus, In Progress)**  
+  *City of Culture and Science – Faculty of Computer Science* (2025 – Present)  
+
+---
+
+## 📜 Certifications & Training  
+
+- 🖥️ **Programming Foundations – Gammal Tech (2024)**  
+  *C, C++, Data Structures, OOP, Algorithms*  
+
+- 📊 **AI & Machine Learning Diploma – Route Academy (2025)**  
+  *Comprehensive ML/DL training with real-world projects*  
+
+- 🎓 **Mini MBA – Koning’s College London (2024)**  
+  *Certificate ID: KCL/EG/BF/0001460*  
+  Focus on Business Strategy, Leadership, and Management Fundamentals  
+
+---
+
+## 🌐 Languages  
+- **Arabic**: Native  
+- **English**: Intermediate (working proficiency)  
+
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/ai-abanoubmichel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abanoub-michel01" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abanoubmichel.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
+
+---
+
+✨ *"Transforming Data into Intelligent Solutions, One Model at a Time."* ✨  
