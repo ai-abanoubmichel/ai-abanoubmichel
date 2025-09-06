@@ -67,9 +67,9 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ## 💼 Professional Experience  
 
-### 🎓 Machine Learning Intern – Genius Technology Center (GTC)  
+### 🎓 Machine Learning Intern @ [Genius Technology Center (GTC)](https://www.linkedin.com/company/genius-technology-center/)  
 *(Aug 2025 – Present)*  
-📂 [Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025) 
+📂 [Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025)  
 
 **Overview:**  
 During this internship, I worked on multiple real-world machine learning projects, applying the **end-to-end ML workflow**:  
@@ -77,12 +77,12 @@ data collection, cleaning, preprocessing, feature engineering, visualization, mo
 I collaborated closely with mentors and peers to enhance predictive models and document reproducible workflows.  
 
 **Key Projects:**  
-- 🏨 [Hotel Booking Cancellations Prediction](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025/tree/main/Hotel_Bookings)  
+- 🏨 [Hotel Booking Cancellations Prediction](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings)  
   - Built a classification pipeline to predict booking cancellations.  
   - Conducted **EDA** to uncover seasonal booking trends and customer behavior.  
   - Compared multiple ML models (Logistic Regression, Random Forest, XGBoost) with performance metrics (Accuracy, Precision, Recall, F1-score).  
 
-- 🚢 [Titanic Survival Prediction](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025/tree/main/Titanic)  
+- 🚢 [Titanic Survival Prediction](https://github.com/ai-abanoubmichel/gtc_ml_project2_Titanic_dataset)  
   - Applied preprocessing techniques: missing value imputation, outlier detection, and categorical encoding.  
   - Engineered new features (family size, age bins, ticket grouping) to improve model performance.  
   - Evaluated models systematically, documenting insights for future iterations.  
