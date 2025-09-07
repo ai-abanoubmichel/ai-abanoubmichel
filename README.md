@@ -77,15 +77,17 @@ data collection, cleaning, preprocessing, feature engineering, visualization, mo
 I collaborated closely with mentors and peers to enhance predictive models and document reproducible workflows.  
 
 **Key Projects:**  
-- 🏨 [Hotel Booking Cancellations Prediction](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings)  
+
+- 🏨 [Hotel Booking Cancellations Prediction](https://github.com/ai-abanoubmichel/gtc-ml-project1-hotel-bookings) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_machinelearning-datascience-internship-activity-7369097917116125185-h-NM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
   - Built a classification pipeline to predict booking cancellations.  
   - Conducted **EDA** to uncover seasonal booking trends and customer behavior.  
   - Compared multiple ML models (Logistic Regression, Random Forest, XGBoost) with performance metrics (Accuracy, Precision, Recall, F1-score).  
 
-- 🚢 [Titanic Survival Prediction](https://github.com/ai-abanoubmichel/gtc_ml_project2_Titanic_dataset)  
+- 🚢 [Titanic Survival Prediction](https://github.com/ai-abanoubmichel/gtc_ml_project2_Titanic_dataset) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_eda-exploratorydataanalysis-machinelearning-activity-7369493769622011906-pWtb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
   - Applied preprocessing techniques: missing value imputation, outlier detection, and categorical encoding.  
   - Engineered new features (family size, age bins, ticket grouping) to improve model performance.  
   - Evaluated models systematically, documenting insights for future iterations.  
+
 
 
 ## 🎓 Education  
