@@ -69,7 +69,6 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ### 🎓 Machine Learning Intern @ [Genius Technology Center (GTC)](https://www.linkedin.com/company/genius-technology-center/)  
 *(Aug 2025 – Present)*  
-📂 [Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025)  
 
 **Overview:**  
 During this internship, I worked on multiple real-world machine learning projects, applying the **end-to-end ML workflow**:  
@@ -88,6 +87,14 @@ I collaborated closely with mentors and peers to enhance predictive models and d
   - Engineered new features (family size, age bins, ticket grouping) to improve model performance.  
   - Evaluated models systematically, documenting insights for future iterations.  
 
+- 🩺 [Diabetes Prediction](https://github.com/ai-abanoubmichel/gtc_ml_project4_Diabetes_Prediction) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_machinelearning-datascience-classification-activity-7370943709753909248-h8dH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
+  - Handled **imbalanced data** to improve prediction fairness.  
+  - Conducted **EDA**: outcome distribution, feature distributions, correlation heatmap, boxplots, and pairplots.  
+  - Trained multiple classification models: Logistic Regression, Decision Tree, Random Forest, SVM, KNN, Naive Bayes, Gradient Boosting, XGBoost, LightGBM, and CatBoost.  
+  - Applied **RandomizedSearchCV** and **GridSearchCV** for hyperparameter tuning.  
+  - 🚀 **Best Model:** CatBoost with **81% accuracy**.  
+
+📂 [Full Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025)
 
 
 ## 🎓 Education  
