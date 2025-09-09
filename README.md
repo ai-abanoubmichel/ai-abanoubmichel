@@ -31,37 +31,37 @@ My career focus is on **leveraging Artificial Intelligence and Machine Learning 
 
 ---
 
-## 📂 Self-Driven Machine Learning Projects 
+## 📂 Self-Driven Projects  
 
-### 🍽️ [Balanced Diet Recommendation System](https://github.com/ai-abanoubmichel/Project_6_balanc_diet)  
-- Built a recommendation model for **generating balanced diet plans** based on nutritional values.  
-- Applied data preprocessing and feature engineering on food/nutrition datasets.  
-- Implemented classification/regression models to suggest calorie-appropriate meal plans.  
-- Visualized nutrient distributions and recommendations for better interpretability.  
+### 🤖 Machine Learning Projects  
 
----
+**Overview:**  
+I independently worked on multiple machine learning projects to apply the **end-to-end ML workflow**:  
+data preprocessing, feature engineering, exploratory data analysis, visualization, model building, evaluation,hyperparameters tuning , ML Pipelines, and insights reporting.  
+These projects helped me strengthen my problem-solving and model deployment skills while working with diverse datasets.  
 
-### 🧠 [Mental Health Prediction](https://github.com/ai-abanoubmichel/Project_7_MentaI_HeaIth)  
-- Designed ML models to assess **mental health conditions** using survey and behavioral data.  
-- Performed EDA to identify correlations between demographic factors and mental well-being.  
-- Applied supervised learning algorithms (Logistic Regression, Random Forest, SVM).  
-- Evaluated models with precision, recall, and F1-score to ensure balanced predictions.  
+**Key Projects:**  
 
----
+- 🍽️ [Balanced Diet Recommendation System](https://github.com/ai-abanoubmichel/Project_6_balanc_diet)  
+  - Built a recommendation model for **generating balanced diet plans** based on nutritional values.  
+  - Applied data preprocessing and feature engineering on food/nutrition datasets.  
+  - Implemented classification/regression models to suggest calorie-appropriate meal plans.  
+  - Visualized nutrient distributions and recommendations for better interpretability.  
 
-### 🌍 [Air Quality Prediction](https://github.com/ai-abanoubmichel/Project_8_Air_Quality)  
-- Developed predictive models for **air quality index (AQI)** forecasting.  
-- Preprocessed environmental datasets including pollutants, temperature, and humidity.  
-- Applied regression and time-series models to forecast AQI levels.  
-- Created data visualizations to monitor pollutant impact and seasonal variations.  
+- 🧠 [Mental Health Prediction](https://github.com/ai-abanoubmichel/Project_7_MentaI_HeaIth)  
+  - Designed ML models to assess **mental health conditions** using survey and behavioral data.  
+  - Performed EDA to identify correlations between demographic factors and mental well-being.  
+  - Applied supervised learning algorithms (Logistic Regression, Random Forest, SVM).  
+  - Evaluated models with precision, recall, and F1-score to ensure balanced predictions.  
 
----
+- 🎀 [Breast Cancer Prediction](https://github.com/ai-abanoubmichel/Project_9_Breast_cancer)  
+  - Built classification models to predict **breast cancer (benign vs malignant)** from medical data.  
+  - Conducted feature selection and scaling for optimal model training.  
+  - Compared ML algorithms (Logistic Regression, Decision Trees, Random Forest, SVM).  
+  - Achieved high accuracy and recall, prioritizing sensitivity for early cancer detection.  
 
-### 🎀 [Breast Cancer Prediction](https://github.com/ai-abanoubmichel/Project_9_Breast_cancer)  
-- Built classification models to predict **breast cancer (benign vs malignant)** from medical data.  
-- Conducted feature selection and scaling for optimal model training.  
-- Compared ML algorithms (Logistic Regression, Decision Trees, Random Forest, SVM).  
-- Achieved high accuracy and recall, prioritizing sensitivity for early cancer detection.  
+📂 [View Full Repository of Machine Learning Projects](https://github.com/ai-abanoubmichel?tab=repositories)  
+ 
 
 ---
 
