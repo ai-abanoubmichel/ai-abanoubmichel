@@ -108,7 +108,7 @@ This internship emphasized **self-driven learning** and applying algorithms to d
 
 **Key Projects:**  
 
-- 📊 [Creditworthiness Prediction](https://github.com/ai-abanoubmichel/codealpha_ml_project1_creditworthiness_prediction) | [LinkedIn Post](https://linkedin.com/...)  
+- 📊 [Creditworthiness Prediction](https://github.com/ai-abanoubmichel/codealpha_ml_project1_creditworthiness_prediction) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_machinelearning-datascience-creditrisk-activity-7371541125695963137-dWDe?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
   - Developed a **classification model** to predict whether an individual is **creditworthy** based on financial and demographic features.  
   - Performed **data preprocessing**, **exploratory data analysis**, and **feature engineering**.  
   - Addressed **imbalanced data** using SMOTE (less effective) and **RandomOverSampler** (improved results).  
