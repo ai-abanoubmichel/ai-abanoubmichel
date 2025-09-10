@@ -87,7 +87,7 @@ I collaborated closely with mentors and peers to enhance predictive models and d
   - Engineered new features (family size, age bins, ticket grouping) to improve model performance.  
   - Evaluated models systematically, documenting insights for future iterations.  
 
-- 🩺 [Diabetes Prediction](https://github.com/ai-abanoubmichel/gtc_ml_project4_Diabetes_Prediction) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_machinelearning-datascience-classification-activity-7370943709753909248-h8dH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
+- 🩺 [Diabetes Prediction](https://github.com/ai-abanoubmichel/gtc-ml-project4-Diabetes-Prediction) | [LinkedIn Post](https://www.linkedin.com/posts/abanoub-michel01_machinelearning-datascience-classification-activity-7370943709753909248-h8dH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFFZMY8BOhNhyZpYMLyVGxABYOwVg22rgS0)  
   - Handled **imbalanced data** to improve prediction fairness.  
   - Conducted **EDA**: outcome distribution, feature distributions, correlation heatmap, countplots, and pairplots.  
   - Trained multiple classification models: Perceptron, Logistic Regression, Decision Tree, Random Forest, SVC, KNN, XGBoost, LightGBM, and CatBoost.  
@@ -108,10 +108,15 @@ This internship emphasized **self-driven learning** and applying algorithms to d
 
 **Key Projects:**  
 
-- 📊 [Project Title](https://github.com/yourusername/project-link) | [LinkedIn Post](https://linkedin.com/...)  
-  - Bullet points describing the task, methods, and results.   
+- 📊 [Creditworthiness Prediction](https://github.com/ai-abanoubmichel/codealpha_ml_project1_creditworthiness_prediction) | [LinkedIn Post](https://linkedin.com/...)  
+  - Developed a **classification model** to predict whether an individual is **creditworthy** based on financial and demographic features.  
+  - Performed **data preprocessing**, **exploratory data analysis**, and **feature engineering**.  
+  - Addressed **imbalanced data** using SMOTE (less effective) and **RandomOverSampler** (improved results).  
+  - Applied multiple ML models (Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost, LightGBM).  
+  - Conducted **hyperparameter tuning** with **RandomizedSearchCV** and **GridSearchCV**.  
+  - Achieved high accuracy with **Random Forest** as the best-performing model.  
 
-📂 [Full Internship Repository](https://github.com/yourusername/repo-link)
+📂 [Full Internship Repository](https://github.com/ai-abanoubmichel/CodeAlpha_Tasks/tree/main)
 
 ## 🎓 Education  
 
