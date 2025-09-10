@@ -65,7 +65,7 @@ These projects helped me strengthen my problem-solving and model deployment skil
 
 ---
 
-## 💼 Professional Experience  
+## 💼 Internships Experience  
 
 ### 🎓 Machine Learning Intern @ [Genius Technology Center (GTC)](https://www.linkedin.com/company/genius-technology-center/)  
 *(Aug 2025 – Present)*  
@@ -96,6 +96,22 @@ I collaborated closely with mentors and peers to enhance predictive models and d
 
 📂 [Full Internship Repository](https://github.com/ai-abanoubmichel/gtc-ml-internship-2025)
 
+
+### 🎓 Machine Learning Intern @ [CodeAlpha](https://www.linkedin.com/company/codealpha/posts/?feedView=all)  
+*(Sep 2025 – Present)*  
+
+**Overview:**   
+At CodeAlpha, I contributed to hands-on **machine learning projects** focused on solving practical problems with data.  
+I gained experience in the **complete ML pipeline**: data preprocessing, exploratory analysis, model development, evaluation, hyperparameter tuning, and deployment-ready documentation.  
+This internship emphasized **self-driven learning** and applying algorithms to diverse datasets, while delivering clear and reproducible project reports.
+  
+
+**Key Projects:**  
+
+- 📊 [Project Title](https://github.com/yourusername/project-link) | [LinkedIn Post](https://linkedin.com/...)  
+  - Bullet points describing the task, methods, and results.   
+
+📂 [Full Internship Repository](https://github.com/yourusername/repo-link)
 
 ## 🎓 Education  
 
